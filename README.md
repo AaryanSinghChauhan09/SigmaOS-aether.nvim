@@ -1,4 +1,6 @@
-# Aether.nvim
+# SigmaOS aether.nvim
+
+> Forked from omacom/aether.nvim (MIT). See `SIGMAOS_FORK.md`.
 
 A dark Neovim colorscheme with WCAG accessible contrast ratios, direct color injection, and broad plugin support.
 
