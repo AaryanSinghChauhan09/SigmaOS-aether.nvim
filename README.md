@@ -1,6 +1,6 @@
 # SigmaOS aether.nvim
 
-> Forked from omacom/aether.nvim (MIT). See `SIGMAOS_FORK.md`.
+> Forked from SigmaOS/aether.nvim (MIT). See `SIGMAOS_FORK.md`.
 
 A dark Neovim colorscheme with WCAG accessible contrast ratios, direct color injection, and broad plugin support.
 
@@ -22,7 +22,7 @@ vim.opt.termguicolors = true
 
 ```lua
 {
-    "omacom/aether.nvim",
+    "SigmaOS/aether.nvim",
     branch = "v3",
     priority = 1000,
     config = function()
@@ -38,7 +38,7 @@ Every palette color is a named variable you can override directly. Pass any comb
 
 ```lua
 {
-    "omacom/aether.nvim",
+    "SigmaOS/aether.nvim",
     branch = "v3",
     name = "aether",
     priority = 1000,
@@ -94,7 +94,7 @@ Create `~/.config/nvim/lua/plugins/colorscheme.lua`:
 ```lua
 return {
     {
-        "omacom/aether.nvim",
+        "SigmaOS/aether.nvim",
         branch = "v3",
         name = "aether",
         priority = 1000,
